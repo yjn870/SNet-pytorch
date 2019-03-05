@@ -28,7 +28,7 @@ This repository is implementation of the "S-Net: A Scalable Convolutional Neural
     </tr>
     <tr>
         <td><center>AR-CNN</center></td>
-        <td><center>S-Net - Metric 8</center></td>
+        <td><center><b>S-Net - Metric 8</b></center></td>
     </tr>
     <tr>
         <td>
