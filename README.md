@@ -3,11 +3,12 @@
 This repository is implementation of the "S-Net: A Scalable Convolutional Neural Network for JPEG Compression Artifact Reduction". <br />
 
 ## Requirements
-- PyTorch
-- Tensorflow
-- tqdm
-- Numpy
-- Pillow
+- Python 3.7
+- PyTorch 1.0.0
+- Tensorflow 1.13.0
+- tqdm 4.30.0
+- Numpy 1.15.4
+- Pillow 5.4.1
 
 **Tensorflow** is required for quickly fetching image in training phase.
 
